@@ -1,3 +1,1 @@
-<?php
-	echo 'Hello World!';
-?>
+<a href="/pages/home.php">home</a>
